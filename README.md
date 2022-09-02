@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Frosty8104
-- 👀 I’m interested in graphic design, web design & development, and photography
-- 🌱 I'm intermediate on HTML and CSS, and I’m currently learning Wordpress design & development
-- 💞️ I’m looking to collaborate on any projects that have to do with the aforementioned skills
+- 👀 I’m interested in graphic design, web design & development, and photography.
+- 🌱 I'm intermediate on HTML and CSS, and novice on Javascript currently.
+- 💞️ I’m looking to collaborate on any projects that have to do with the aforementioned skills.
 - 📫 How to reach me by e-mail: lg8104@gmail.com
 
 <!---
